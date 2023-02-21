@@ -1,4 +1,4 @@
-# Project Title
+# Emotion recognition model evaluation 
 
 Model accuracy analysis in emotion recognition dataset
 
@@ -51,7 +51,7 @@ There are also four scoring metrcis:
 * Recall
 * F-1 Score
 
-In this case, they all have a range of 62%-63%, which is very consistent. But overall, I prefer to make F-1 score as the standard accuracy value to deal with the 
+In this case, they all have a range of **62%-63%**, which is very consistent. But overall, I prefer to make F-1 score as the standard accuracy value to deal with the 
 imbalance dataset.
 
 ### Individual emotion dataset accuracy
